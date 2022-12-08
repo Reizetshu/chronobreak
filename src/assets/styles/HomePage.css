@@ -1,0 +1,18 @@
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    margin-top: 7%;
+    margin-bottom: 21%;
+}
+
+.inner-home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-style: solid;
+    background-color: white;
+    border-radius: 8px;
+}

@@ -1,0 +1,18 @@
+.form-signup {
+    width: 80%;
+    border-radius: 8px;
+    border-style: solid;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+    font-size: 30px;
+}
+
+.container-signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}

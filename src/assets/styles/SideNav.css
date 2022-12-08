@@ -1,0 +1,10 @@
+li {
+    margin-left: -40px;
+    width: 10%;
+    list-style-type: none;
+    background-color: #2596be;
+}
+
+.link {
+    margin-left: 10px;
+}

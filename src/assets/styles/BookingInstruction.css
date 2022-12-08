@@ -1,0 +1,59 @@
+.instruction {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-style: solid;
+    background-color: white;
+    flex-direction: column;
+    font-size: 30px;
+    margin-left: 10%;
+    border-radius: 8px;
+}
+.container-venues {
+    width: 100%;
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+
+.venues-price {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+}
+
+.rules {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    border-bottom-style: solid;
+}
+
+.rules-txt {
+    margin-left: 50px;
+}
+
+.regulation-all {
+    width: 100%;
+}
+
+.booking-regulation {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom-style: solid;
+}
+
+.regulation {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.regulation-txt {
+    margin-left: 50px;
+}
